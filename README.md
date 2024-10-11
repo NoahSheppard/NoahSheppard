@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahSheppard
 - 👀 I’m interested in Music, Computer Science, Cybersecurity and more
-- 🌱 I’m currently learning Python, Java, WebDev, Swift and C++
+- 🌱 I’m currently learning Python, Java, WebDev, and C++
 - 💞️ I’m looking to collaborate on Mobile and general-purpose projects
 - 📫 How to reach me
 - 😄 Pronouns: he/him
